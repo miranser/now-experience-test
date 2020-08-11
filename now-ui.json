@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-338485-x-frst": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Test counter",
+				"icon": "chart-forecast-fill",
+				"description": "Test counter desc"
+			  },
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_338485_x_frst"
+}
